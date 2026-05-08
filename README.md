@@ -1,5 +1,9 @@
 # embase-skills
 
+[English](#embase-skills) | [中文](#embase-skills-中文说明)
+
+---
+
 `embase-skills` provides browser-based Embase literature-search skills through Chrome DevTools MCP. The design follows the session model used by `cookjohn/wos-skills`: the user logs in to the database in Chrome, and the skills reuse that active browser session for search, parsing, export, and full-text handoff.
 
 ## Prerequisites
